@@ -1,0 +1,5 @@
+model,score,n_estimators,max_depth,max_features,ccp_alpha
+Random Forest & TVEC 1,0.9256705746399552,100,25,auto,0
+Random Forest & TVEC 2,0.926819071788539,150,30,auto,0
+Random Forest & TVEC 3,0.9305497563653479,200,35,auto,0
+Random Forest & TVEC 4,0.9338498188833076,200,35,auto,0
